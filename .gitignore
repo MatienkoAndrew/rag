@@ -1,0 +1,6 @@
+# Files
+credentials.yaml
+
+# Datasets
+.ipynb_checkpoints
+outputs/
